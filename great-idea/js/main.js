@@ -1,0 +1,1 @@
+TweenMax.from(".theimage", 4, {opacity:0, scale:0, ease:Bounce.easeIn});
